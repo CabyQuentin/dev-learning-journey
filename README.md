@@ -1,6 +1,6 @@
 # My Learning Journey
 
-<p align="center">
+<p align="left">
   <img
     src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/profile_thumbnails/e6ef1943-8cc4-45e3-afaa-12e0c5a3277f.jpeg?v=1784816267"
     alt="Boot.dev profile"
