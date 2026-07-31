@@ -8,7 +8,7 @@
   >
 </p>
 
-I started learning Python about two months ago. This repository documents my progress, exercises, projects, and certificates.
+I started learning Python about two months ago. This repository documents my progress, exercises, projects, and certificates. I will list the completed courses in order, from the oldest to the most recent completed.
 
 ## Python
 
@@ -54,3 +54,11 @@ I completed the Learn Git course on Boot.dev to improve my Git skills and prepar
 Here is the full repository I created while completing the course.
 
 [View the Learn Git repository](https://github.com/CabyQuentin/Webflyx)
+
+## OOP Python
+
+I completed the Learn Object Oriented Programming in Python course to improve my python knowledge.
+
+### Certificate
+
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b.jpeg?v=1785515675)](https://www.boot.dev/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b)
