@@ -28,18 +28,18 @@ I completed the Learn Linux course to improve my command-line skills and prepare
 
 ## Project BookBot
 
-### Certificate
-
 I completed the BookBot guided project on Boot.dev.  
 The project analyzes a text file and generates a report containing the word count and character frequency.
 
+### Certificate
+
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/de65e3bf-e866-4dac-a70e-804fc896de46.jpeg?v=1784822457)](https://www.boot.dev/certificates/de65e3bf-e866-4dac-a70e-804fc896de46)
 
-### BookBot
+### BookBot repository
 
 Here is my Python code from the BookBot guided project.
 
-[View the BookBot project](https://github.com/CabyQuentin/Book-bot)
+[View the BookBot repository](https://github.com/CabyQuentin/Book-bot)
 
 ## Git
 
@@ -62,3 +62,16 @@ I completed the Learn Object Oriented Programming in Python course to improve my
 ### Certificate
 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b.jpeg?v=1785515675)](https://www.boot.dev/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b)
+
+## Asteroids game
+
+I completed the Build Asteroids using Python and Pygame guided project on Boot.dev.
+The project made me use Pygame and practice Object Oriented Programming.
+
+### Certificate
+
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d20a1a8e-a10b-41f9-bbc9-c19eedc11952.jpeg?v=1785750812)](https://www.boot.dev/certificates/d20a1a8e-a10b-41f9-bbc9-c19eedc11952)
+
+### Asteroid game repository
+
+[View the Asteroids game repository](https://github.com/CabyQuentin/asteroid)
