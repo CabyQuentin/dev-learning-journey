@@ -75,3 +75,11 @@ The project made me use Pygame and practice Object Oriented Programming.
 ### Asteroid game repository
 
 [View the Asteroids game repository](https://github.com/CabyQuentin/asteroid)
+
+## Functional Programming in Python
+
+I completed the Functional Programming in Python course to improve my python knowledge.
+
+### Certificate
+
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fa4f8218-12ab-40a4-81cc-bb20a6362a97.jpeg?v=1786600506)](https://www.boot.dev/certificates/fa4f8218-12ab-40a4-81cc-bb20a6362a97)
